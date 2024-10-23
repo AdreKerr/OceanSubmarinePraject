@@ -12,3 +12,18 @@ C:\Users\MCA-9\Documents\GitHub\OceanSubmarinePraject\obj\Debug\net8.0\refint\Oc
 C:\Users\MCA-9\Documents\GitHub\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.pdb
 C:\Users\MCA-9\Documents\GitHub\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.genruntimeconfig.cache
 C:\Users\MCA-9\Documents\GitHub\OceanSubmarinePraject\obj\Debug\net8.0\ref\OceanSubmarinePraject.dll
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\bin\Debug\net8.0\OceanSubmarinePraject.exe
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\bin\Debug\net8.0\OceanSubmarinePraject.deps.json
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\bin\Debug\net8.0\OceanSubmarinePraject.runtimeconfig.json
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\bin\Debug\net8.0\OceanSubmarinePraject.dll
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\bin\Debug\net8.0\OceanSubmarinePraject.pdb
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.AssemblyInfoInputs.cache
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.AssemblyInfo.cs
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.csproj.CoreCompileInputs.cache
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.sourcelink.json
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.dll
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\refint\OceanSubmarinePraject.dll
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.pdb
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\OceanSubmarinePraject.genruntimeconfig.cache
+C:\Users\MCA-9\Documents\GitHub\C# Project\Main Projects\OceanSubmarinePraject\obj\Debug\net8.0\ref\OceanSubmarinePraject.dll

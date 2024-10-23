@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\",
+  "WorkspaceRootPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8142601C-3487-436B-AD8F-40DA0E9A0676}|OceanSubmarinePraject.csproj|c:\\users\\mca-9\\documents\\github\\oceansubmarinepraject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8142601C-3487-436B-AD8F-40DA0E9A0676}|OceanSubmarinePraject.csproj|c:\\users\\mca-9\\documents\\github\\c# project\\main projects\\oceansubmarinepraject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8142601C-3487-436B-AD8F-40DA0E9A0676}|OceanSubmarinePraject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\Program.cs",
+              "ToolTip": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAkwJ0AAAAiAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAmwJ0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T18:23:04.058Z",
               "EditorCaption": ""

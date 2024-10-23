@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj": {}
+    "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj": {
+    "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj",
+        "projectUniqueName": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj",
         "projectName": "OceanSubmarinePraject",
-        "projectPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj",
+        "projectPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\OceanSubmarinePraject.csproj",
         "packagesPath": "C:\\Users\\MCA-9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\OceanSubmarinePraject\\obj\\",
+        "outputPath": "C:\\Users\\MCA-9\\Documents\\GitHub\\C# Project\\Main Projects\\OceanSubmarinePraject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MCA-9\\AppData\\Roaming\\NuGet\\NuGet.Config",
